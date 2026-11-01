@@ -35,8 +35,6 @@ python main.py             # rulează simularea
 Metro Interstate Traffic Volume (UCI Machine Learning Repository), inclus în
 `Metro_Interstate_Traffic_Volume.csv`.
 
-## Context
-Proiect realizat în cadrul atestatului de informatică, clasa a XII-a.
 
 ## Limitări și îmbunătățiri posibile
 - Mediul folosește valori fixe pentru condițiile meteo la predicția traficului;
